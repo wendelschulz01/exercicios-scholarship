@@ -1,2 +1,4 @@
 # desafios-scholarship
-Repositório de desafios Scholarship 
+##Cada desafio está em sua branch respectiva.
+
+
