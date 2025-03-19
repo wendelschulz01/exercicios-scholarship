@@ -14,7 +14,7 @@ function nPrimo(numero) {
   }
   for (let i = 2; i <= Math.sqrt(numero); i++) {
     if (numero % i === 0) {
-      return false; // Se divisível, não é primo
+      return false; // Se divisível, não é um número primo
     }
   }
   return true; // Se não foi divisível por nenhum número, é primo
